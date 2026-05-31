@@ -1,18 +1,3 @@
-# Week 1 ML Foundations Assignment
+This repository contains all assignments, projects, and learning exercises completed during my internship at Celebal Technologies. The work covers fundamental and advanced concepts in Python, Machine Learning, Deep Learning, Statistics, Data Analysis, Computer Vision, Natural Language Processing, and Generative AI.
 
-This repository contains my Week 1 internship assignment covering:
-
-- Python Basics
-- NumPy
-- Pandas
-- Linear Algebra
-- Statistics
-- Probability
-- Hypothesis Testing
-- Bayes Theorem
-- Central Limit Theorem
-- Model Monitoring Basics
-
-Tools Used:
-- Python
-- Google Colab
+The objective of this internship is to gain hands-on experience in building end-to-end AI/ML solutions and applying theoretical concepts to real-world datasets and problems.
